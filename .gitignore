@@ -3,7 +3,6 @@
 *.out
 *.app
 a.out
-longest_prime_factor
 
 # Compiled Object files
 *.o
