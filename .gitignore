@@ -1,0 +1,65 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+a.out
+longest_prime_factor
+
+# Compiled Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Static analysis
+*.gcda
+*.gcno
+*.gcov
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+build/
+_builds/
+
+# Make
+*.d
+.deps/
+
+# Core dumps
+core
+core.*
+vgcore.*
